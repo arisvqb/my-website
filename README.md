@@ -1,4 +1,6 @@
 Welcome!
 new lines
 
-Updates made on master before rebase
+Edit on example branch
+
+Now updating on update-readme branch
