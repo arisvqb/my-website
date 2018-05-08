@@ -1,4 +1,4 @@
 Welcome!
 new lines
 
-Edit on example branch
+Updates made on master before rebase
